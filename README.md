@@ -3,6 +3,10 @@
 ## Overview
 EARBench is a comprehensive benchmark designed to evaluate the entity ambiguity resolution capabilities of Large Language Models (LLMs). This benchmark covers multiple entity types and various evaluation tasks to provide a thorough assessment of models' ability to handle entity disambiguation in different contexts.
 
+You can download through benchmark.zip or visit from : 
+
+https://figshare.com/articles/dataset/EAR_Benchmark/29368739?file=55514606
+
 ## Dataset Structure
 The benchmark consists of six entity types:
 - Person
